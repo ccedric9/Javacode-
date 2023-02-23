@@ -6,6 +6,7 @@ UINT_MAX = (uint)(~0)  // 32 bit all equal 1
 LONG_MAX
 LONG_MIN
 ULONG_MAX
+hello
 
 /******************** string, char, integer conversion ***************/
 [int to string]         to_string(num);
